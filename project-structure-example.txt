@@ -1,0 +1,18 @@
+Example Project Structure:
+
+main-dev-setup/
+├── README.md
+├── TOOLS_AND_DEPENDENCIES.md
+├── windows-setup-example.bat
+├── .gitignore
+├── project-structure-example.txt
+
+# For your actual projects, you might use:
+my-app/
+├── package.json
+├── src/
+├── public/
+├── venv/
+├── main.py
+├── requirements.txt
+├── ...
